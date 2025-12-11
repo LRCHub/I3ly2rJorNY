@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "よふかしのうた - Yofukashino Uta",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-11T10:46:37.026486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "よふかしのうた",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_よふかしのうた_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "よふかしのうた",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_よふかしのうた_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "よふかしのうた - Yofukashino Uta",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/03_よふかしのうた_-_Yofukashino_Uta_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "よふかしのうた",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/04_よふかしのうた_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "よふかしのうた",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/05_よふかしのうた_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "よふかしのうた",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/06_よふかしのうた_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "よふかしのうた",
+      "artist": "N/A",
+      "has_synced": true,
+      "path": "select/07_よふかしのうた_N_A.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "よふかしのうた (Remastered)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/08_よふかしのうた_(Remastered)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "よふかしのうた (Creepy Nuts One Man Live『かつて天才だった俺たちへ』日本武道館公演 Day2)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/09_よふかしのうた_(Creepy_Nuts_One_Man_Live『かつて天才だった俺たちへ』日本武道館公演_Day2)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "【MV】Creepy Nuts - よふかしのうた",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/10_【MV】Creepy_Nuts_-_よふかしのうた_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "よふかしのうた (Remastered)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/11_よふかしのうた_(Remastered)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "【MV】Creepy Nuts - よふかしのうた",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/12_【MV】Creepy_Nuts_-_よふかしのうた_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "よふかしのうた (Paused)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/13_よふかしのうた_(Paused)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "よふかしのうた",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_よふかしのうた_CreepyNuts.txt"
+    }
+  ]
+}
